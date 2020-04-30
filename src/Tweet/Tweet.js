@@ -4,7 +4,7 @@ import React from 'react';
 
 function Tweet(){
     return(
-       <div className-="tweet">
+       <div className="tweet">
            <h3>Name</h3>
            <p>This is a random text</p>
            <h3>Number of likes</h3>
