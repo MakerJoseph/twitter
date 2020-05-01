@@ -5,11 +5,10 @@ import Tweet from './Tweet/Tweet';
 function App() {
   return(
     <div className="App">
-      <h1>Hello, this is a react app</h1>
-      <Tweet />
-      <Tweet />
-      <Tweet />
-      <Tweet />
+      <Tweet name="Jose" message="This is a random message"/>
+      <Tweet name="Davi" message="Get me in the gym"/>
+      <Tweet name="Brayo" message="Hanging with the ladies today"/>
+      <Tweet name="Kaka" message="You gotta bring your 'A' game"/>
     </div>
   )
 }
