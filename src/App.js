@@ -6,7 +6,7 @@ function App() {
   return(
     <div className="App">
       <Tweet name="Jose" message="This is a random message"/>
-      <Tweet name="Davi" message="Get me in the gym"/>
+      <Tweet name="Davi" message="The NBA return..."/>
       <Tweet name="Brayo" message="Hanging with the ladies today"/>
       <Tweet name="Kaka" message="You gotta bring your 'A' game"/>
     </div>
